@@ -1,0 +1,5 @@
+{
+  "app": "npm exec ts-node -- --esm --prefer-ts-exts bin/aws-cdk-esm-file-urls-reproduce.ts",
+  "context": {
+  }
+}
